@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\SinhVienOOP\SinhVienOOP\bin\Debug\net6.0\SinhVienOOP.exe
+C:\Users\Admin\source\repos\SinhVienOOP\SinhVienOOP\bin\Debug\net6.0\SinhVienOOP.deps.json
+C:\Users\Admin\source\repos\SinhVienOOP\SinhVienOOP\bin\Debug\net6.0\SinhVienOOP.runtimeconfig.json
+C:\Users\Admin\source\repos\SinhVienOOP\SinhVienOOP\bin\Debug\net6.0\SinhVienOOP.dll
+C:\Users\Admin\source\repos\SinhVienOOP\SinhVienOOP\bin\Debug\net6.0\SinhVienOOP.pdb
+C:\Users\Admin\source\repos\SinhVienOOP\SinhVienOOP\obj\Debug\net6.0\SinhVienOOP.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SinhVienOOP\SinhVienOOP\obj\Debug\net6.0\SinhVienOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SinhVienOOP\SinhVienOOP\obj\Debug\net6.0\SinhVienOOP.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SinhVienOOP\SinhVienOOP\obj\Debug\net6.0\SinhVienOOP.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SinhVienOOP\SinhVienOOP\obj\Debug\net6.0\SinhVienOOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SinhVienOOP\SinhVienOOP\obj\Debug\net6.0\SinhVienOOP.dll
+C:\Users\Admin\source\repos\SinhVienOOP\SinhVienOOP\obj\Debug\net6.0\refint\SinhVienOOP.dll
+C:\Users\Admin\source\repos\SinhVienOOP\SinhVienOOP\obj\Debug\net6.0\SinhVienOOP.pdb
+C:\Users\Admin\source\repos\SinhVienOOP\SinhVienOOP\obj\Debug\net6.0\SinhVienOOP.genruntimeconfig.cache
+C:\Users\Admin\source\repos\SinhVienOOP\SinhVienOOP\obj\Debug\net6.0\ref\SinhVienOOP.dll
